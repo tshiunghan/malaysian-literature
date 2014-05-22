@@ -17,3 +17,9 @@ Kee Thuan Chye loaned me a bunch of his newspapers with the understanding that I
 How can I sort out my feelings for Malaysian literature if I don't know how I feel about literature with a capital L? There will be some thinking about that going on in here.
 
 Perhaps there will be some looking at other countries' literatures. I am particularly interested in the Caribbean, Irish, African literature. I think they all have something to say to us.
+
+## FOCUS
+
+I have trouble staying on task. This project will be a test of that.
+
+I've never used Git before, so I'm learning as I go.
