@@ -1,7 +1,6 @@
 # China's door is open to novelist Samad
 
-
-## By Tan Gim Ean
+*By Tan Gim Ean*
 
 Picture a Chinese actress in the title role of Salina, the live-for-love prostitute in A. Samad Said's maiden novel.
 
