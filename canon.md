@@ -2,6 +2,8 @@
 
 (Note: This list is preliminary, and will continually be updated)
 
+One of the sources is obviously Malachi Edwin Vethmani's *A Bibliography of Malaysian Literature in English* (Sasbadi: 2001). However, Malachi chose to classify his bibliography first by genre, then by author name. We are looking for a chronology. In the absence of one, we'll have to build our own.
+
 ## Pre-independence:
 
 ## Post-independence:
