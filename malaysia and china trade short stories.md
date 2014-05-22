@@ -1,6 +1,6 @@
 # Malaysia and China trade short stories
 
-## By Tan Gim Ean
+*By Tan Gim Ean*
 
 Local Malay writers are being read in China. If that surprises you, here's more. Soon, we will be getting works by Chinese authors from that country.
 
