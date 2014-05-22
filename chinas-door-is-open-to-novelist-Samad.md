@@ -43,4 +43,4 @@ An angry Samad has threatened court action. "We don't want to be treated as non-
 
 "As things are, it's as if they had picked up the script from a rubbish dump by the drain, or that we've been dead since Munshi Abdullah's time."
 
-New Straits Times, Sundary, March 24, 1991, p. 22.
+Source: New Straits Times, Sundary, March 24, 1991, p. 22.
