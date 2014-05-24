@@ -1,8 +1,6 @@
-Whose turn is it to win next?
-=============================
+# Whose turn is it to win next?
 
-By Tan Gim Ean
---------------
+*By Tan Gim Ean*
 
 Who will win the Anugerah Sasterah Negara for 1990?
 

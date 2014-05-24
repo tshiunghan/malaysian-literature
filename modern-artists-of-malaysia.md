@@ -1,9 +1,7 @@
-MODERN ARTISTS OF MALAYSIA
-==========================
+# MODERN ARTISTS OF MALAYSIA
 
 
-INTRODUCTION
-------------
+## INTRODUCTION
 
 
 IT may well be the case that in the future, critics and historians motivated by visionary ideals will be able to dramatise the beginnings of modern art in Malaysia by identifying a particular event or production with the intention of personifying its parentage. The history is art is enlivened by such dramatisations, and the discussion of modern art revolves around such heroic moments.
@@ -33,8 +31,7 @@ The efforts by these artists are the result of individual preferences and skills
 Can a claim for modernity be made on their behalf? I suggest it can and for the following reason: their total reliance on visual data derived from the observed world. Such data are transcribed into images consisting of a blend of impressions and concreteness. It is an approach that generally corresponds with the accepted notions underlying the beginning of modern art as such. And this is important. Otherwise, the adoption of these artists as signalling the beginnings of modern art activity in this country cannot be supported. The claim that artists such as Yong Mun Sen, Abdullah Ariff and Khaw Sia initiated modern art in Malaysia rests on their attitude toward such activity. Admittedly their works did not advance appreciable formal and aesthetic directions. Neither were their attitudes substantiated by consciously articulated aesthetic principles. Nevertheless, the nucleus of notions that are generally identifiable with modern art as such, are discernable in their works. The expansion and consolidation of such notions are the results of  the institutional grounding of art education and of art activity.
 
 
-PREFACE
--------
+## PREFACE
 
 
 "The special problem of the critic in the sixties has been, I think, to locate a tradition of criticism within which to operate." ---Barbara Rose: Art Criticism in the Sixties [1]
