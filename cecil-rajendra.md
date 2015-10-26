@@ -34,4 +34,6 @@ Nowadays, he is also known as a diva. He's turned down invitations to read at th
 
 In 2013, he agreed to participate in a talk, but he cancelled his appearance at the last minute. He had come out with No Bed of Roses that year.
 
-What he lacks in quality, he makes up in quantity. He is the most prolific Malaysian poet right now. Rajendra might even style himself an "outlaw poet." His poetry is about social justice, suffering, exclusion, love. These are all worthy themes, but they are not investigated, 
+What he lacks in quality, he makes up in quantity. He is the most prolific Malaysian poet right now. Rajendra might even style himself an "outlaw poet." His poetry is about social justice, suffering, exclusion, love. These are all worthy themes, but they are not investigated, they are merely to be admired, and put back on the shelf.
+
+"A poetry of extremity must first be poetry," says Michael Schmidt, in his discussion of Sylvia Plath. Cecil Rajendra's poetry of social justice, too, must first be poetry before all else. Can we call it that? He is angry, but can his anger produce something artful?
