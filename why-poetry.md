@@ -1,0 +1,3 @@
+# why poetry?
+
+because we are afraid to make mistakes, that's why art matters. but the poetic tradition is where I'm invested. there's been such a tradition reaching back for centuries, it's so rich it would be a shame to ignore it. we approach poetry as a form of personal expression these days, but there's a long tradition of technical excellence in poetry that has yet to really catch on.
